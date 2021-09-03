@@ -2,6 +2,8 @@
 
 # 10.0.2
 
+ - Fix photos of a bat being a green apple or something
+
 # 10.0.1
 
  - Fix empty wand (broomstick) slot lore not using name from messages
