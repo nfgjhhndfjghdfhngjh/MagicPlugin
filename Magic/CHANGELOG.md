@@ -1,5 +1,7 @@
 # CHANGELOG
 
+# 10.0.3
+
 # 10.0.2
 
  - Fix photos of a bat being a green apple or something
