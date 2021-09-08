@@ -2,6 +2,8 @@
 
 # 10.0.3
 
+ - Fix missing spellshop lore (shop lore in general, probably)
+
 # 10.0.2
 
  - Fix photos of a bat being a green apple or something
