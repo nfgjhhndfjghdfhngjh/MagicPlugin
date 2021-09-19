@@ -1,4 +1,4 @@
-wands:
+wands:1
   testwand:
-    name: Test Wand
-    description: An empty wand to use for testing spells.
+    name:[other config]
+    permission: 'buildersWand.use.1'
